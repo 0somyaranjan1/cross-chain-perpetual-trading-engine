@@ -1,0 +1,15 @@
+{
+  "name": "cross-chain-perpetual-trading-engine",
+  "version": "1.0.0",
+  "description": "The **Cross-Chain Perpetual Trading Engine** is a **decentralized trading protocol** that enables **perpetual futures trading** with leverage across multiple blockchains, starting with **EVM (Arbitrum) and Solana**. This platform provides efficient order execution, cross-chain collateral management, and automated risk handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}
